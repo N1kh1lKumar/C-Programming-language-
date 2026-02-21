@@ -1,5 +1,5 @@
 # C-Programming-language-
-<h1>🚀 My Programming Journey — From Zero to C Developer</h1>
+<h1>🚀 My Programming Journey — From Scratch</h1>
 
 <p>
 Welcome to my repository!<br>
