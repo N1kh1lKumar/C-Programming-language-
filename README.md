@@ -1,5 +1,5 @@
 # C-Programming-language-
-<h1>🚀 My Programming Journey — From Scratch</h1>
+<h1> My Programming Journey — From Scratch</h1>
 
 <p>
 Welcome to my repository!<br>
@@ -8,7 +8,7 @@ This repo documents my <strong>first steps into the world of programming</strong
 
 <hr>
 
-<h2>📖 About This Repository</h2>
+<h2> About This Repository</h2>
 
 <p>This repository represents my journey of:</p>
 
@@ -25,7 +25,7 @@ It reflects my <strong>discipline, curiosity, and consistency</strong> in master
 
 <hr>
 
-<h2>🧠 What I Learned</h2>
+<h2> What I Learned</h2>
 
 <h3>🔹 C Programming Fundamentals</h3>
 <ul>
@@ -81,7 +81,7 @@ It reflects my <strong>discipline, curiosity, and consistency</strong> in master
 
 <hr>
 
-<h2>🎯 Purpose of This Repository</h2>
+<h2> Purpose of This Repository</h2>
 
 <ul>
   <li>Track my <strong>learning progress</strong></li>
@@ -92,7 +92,7 @@ It reflects my <strong>discipline, curiosity, and consistency</strong> in master
 
 <hr>
 
-<h2>🔥 Why This Repo Matters</h2>
+<h2> Why This Repo Matters</h2>
 
 <p>
 This is more than just code —<br>
@@ -101,7 +101,7 @@ it represents the moment I <strong>stopped consuming technology and started crea
 
 <hr>
 
-<h2>📌 Future Plans</h2>
+<h2> Future Plans</h2>
 
 <ul>
   <li>Move to <strong>Data Structures & Algorithms</strong></li>
@@ -112,4 +112,4 @@ it represents the moment I <strong>stopped consuming technology and started crea
 
 <hr>
 
-<p>⭐ If you're also starting your journey, feel free to explore, learn, and grow with me!</p>
+<p> If you're also starting your journey, feel free to explore, learn, and grow with me!</p>
